@@ -1,4 +1,4 @@
-![Base](logo.webp)
+edited by ishika
 
 # Base node
 
